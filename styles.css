@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#player {
+    margin-top: 20px;
+}
+
+#seekBar {
+    width: 100%;
+}
+
+
+
